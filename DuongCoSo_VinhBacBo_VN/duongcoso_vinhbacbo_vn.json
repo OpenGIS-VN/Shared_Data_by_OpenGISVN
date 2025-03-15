@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.343333, 17.166667]
+      },
+      "properties": {
+        "name": "A11",
+        "location": "Đảo Cồn Cỏ theo tuyên bố của Chính phủ về đường cơ sở dùng để tính chiều rộng lãnh hải Việt Nam ngày 12/11/1982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.673833, 17.913361]
+      },
+      "properties": {
+        "name": "A12",
+        "location": "Hòn Gió Lớn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.489917, 18.117361]
+      },
+      "properties": {
+        "name": "A13",
+        "location": "Hòn Chim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.989028, 18.791167]
+      },
+      "properties": {
+        "name": "A14",
+        "location": "Hòn Mắt Con"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.938500, 19.376861]
+      },
+      "properties": {
+        "name": "A15",
+        "location": "Đảo Hòn Mê"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.208944, 20.613306]
+      },
+      "properties": {
+        "name": "A16",
+        "location": "Đảo Long Châu Đông"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.454139, 20.716278]
+      },
+      "properties": {
+        "name": "A17",
+        "location": "Đảo Hạ Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.463944, 20.722583]
+      },
+      "properties": {
+        "name": "A18",
+        "location": "Đảo Hạ Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.822472, 20.983972]
+      },
+      "properties": {
+        "name": "A19",
+        "location": "Đảo Thanh Lam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.862917, 21.023861]
+      },
+      "properties": {
+        "name": "A20",
+        "location": "Đảo Thanh Lam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.019333, 21.188778]
+      },
+      "properties": {
+        "name": "A21",
+        "location": "Hòn Bồ Cát"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.021583, 21.191444]
+      },
+      "properties": {
+        "name": "A22",
+        "location": "Hòn Bồ Cát"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.092444, 21.470806]
+      },
+      "properties": {
+        "name": "A23",
+        "location": "Đảo Trà Cổ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.101194, 21.470139]
+      },
+      "properties": {
+        "name": "A24",
+        "location": "Điểm số 1 theo Hiệp định phân định lãnh hải, vùng đặc quyền kinh tế và thềm lục địa giữa nước Cộng hoà xã hội chủ nghĩa Việt Nam và nước Cộng hoà nhân dân Trung Hoa trong Vịnh Bắc Bộ"
+      }
+    }
+  ]
+}
